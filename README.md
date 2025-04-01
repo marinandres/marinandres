@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🔭 I’m currently working my personal project [Agro William](https://www.agrowilliam.com/)
-🌱 I’m doing a Master of Science in Artificial Intelligence
-🤔 Research areas: Quantum Computing, Education, Reinforcement Learning and Computer Vision
-📫 How to reach me: marinandres698@gmail.com
+- 🔭 I’m currently working my personal project [Agro William](https://www.agrowilliam.com/)
+- 🌱 I’m doing a Master of Science in Artificial Intelligence
+- 🤔 Research areas: Quantum Computing, Education, Reinforcement Learning and Computer Vision
+- 📫 How to reach me: marinandres698@gmail.com
 <!--
 **marinandres/marinandres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
